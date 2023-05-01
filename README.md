@@ -1,3 +1,3 @@
 # pomodoro
 
-A new Flutter project.
+flutter pomodoro clone project
