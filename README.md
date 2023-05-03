@@ -1,3 +1,3 @@
 # pomodoro
 
-flutter pomodoro clone project
+simple pomodoro app
